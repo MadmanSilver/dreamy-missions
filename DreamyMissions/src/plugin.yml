@@ -1,0 +1,9 @@
+main: com.madmansilver.dreamymissions.Main
+name: DreamyMissions
+version: 0.1.1
+api-version: 1.15
+author: MadmanSilver
+
+commands:
+  stats:
+    description: Easily check a player's stats! A list of stat names can be found at https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Statistic.html. Materials can be found at https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html. Entity-Types can be found at https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/entity/EntityType.html

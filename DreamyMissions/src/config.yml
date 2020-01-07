@@ -1,0 +1,3 @@
+messages:
+  join-first: "Welcome! This server tracks your actions to provide stats. These are occasionally used to host competitions, but are also just here for fun!"
+  join-mission-active: "!!MISSION ALERT!! - %mission-name% - Current progress: %player-progress% / %mission-goal%"
